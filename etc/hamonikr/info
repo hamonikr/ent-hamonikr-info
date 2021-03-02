@@ -1,0 +1,10 @@
+RELEASE=2.0
+CODENAME=entjin
+EDITION="Cinnamon"
+DESCRIPTION="HamoniKR Server 2.0 EntJin"
+DESKTOP=Gnome
+TOOLKIT=GTK
+NEW_FEATURES_URL=https://hamonikr.org/menuDownload_JIN
+RELEASE_NOTES_URL=https://hamonikr.org/menuDownload_JIN
+USER_GUIDE_URL=http://pms.invesume.com:8090/40jin
+GRUB_TITLE=HamoniKR Server 2.0 EntJin
